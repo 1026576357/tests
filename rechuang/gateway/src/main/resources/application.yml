@@ -1,0 +1,23 @@
+server:
+  port: 5000
+spring:
+  application:
+    name: api-geteway
+zuul:
+  routes:
+    user-server: /user/**
+    serviceId: user-server
+eureka:
+  client:
+    service-url:
+      #defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+      defaultZone: http://eureka01.com:8091/eureka/
+
+
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone: http://eureka01.com:8091/eureka/   #eureka\u670D\u52A1\u66B4\u9732\u7684\u63A5\u53E3\u5730\u5740
+#  instance:
+#    instance-id: api-gateway:9000
+#    prefer-ip-address: true

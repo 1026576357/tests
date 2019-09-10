@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5be791c-7909-4d01-943d-cdd3be860c29" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cs_user@106.12.24.184" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cs_user@106.12.24.184" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cs_user@106.12.24.184" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="cs_user: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cs_user@106.12.24.184" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="cs_user: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="user: table" type="dbc44a63:MariaImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../rechuang\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mvc</find>
+    </findStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Qa08NNXOar3wvb6V8V6GPDRHpD" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567948093953" />
+    <property name="last_opened_file_path" value="E:/leyou-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.user.client" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.authentication" />
+      <recent name="com.example.user.util" />
+      <recent name="com.test" />
+      <recent name="com.cart" />
+      <recent name="com.test.cart.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\rechuang\rechuang\authentication\authentication-common\src\main\java\com\rechuang\auth\authutil" />
+      <recent name="E:\rechuang\rechuang\authentication\authentication-common\src\main\java" />
+      <recent name="E:\rechuang\rechuang\user\src\main\java\com\example\user\mapper" />
+      <recent name="E:\testcloudex\common\src\main\java\com\example\common\utils" />
+      <recent name="E:\testcloudex\common\src\main\java\com\example\common" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserApplication">
+    <configuration name="All in registry (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="registry" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in registry (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="registry" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in user" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="user" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigserverApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="configserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.configserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.configserver" />
+      <option name="MAIN_CLASS_NAME" value="com.example.configserver.ConfigserverApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.user" />
+      <option name="MAIN_CLASS_NAME" value="com.example.user.UserApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.common.CommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="configserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.configserver.ConfigserverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.mall.MallApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RobotapiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="robotapi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.robotapi.RobotapiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.sms.SmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.All in registry (1)" />
+      <item itemvalue="JUnit.All in user" />
+      <item itemvalue="JUnit.All in registry (2)" />
+      <item itemvalue="JUnit.ConfigserverApplicationTests" />
+      <item itemvalue="JUnit.UserApplicationTests" />
+      <item itemvalue="Spring Boot.CommonApplication" />
+      <item itemvalue="Spring Boot.RegistryApplication" />
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.itemInterfaceApplication" />
+      <item itemvalue="Spring Boot.itemServiceApplication" />
+      <item itemvalue="Spring Boot.ConfigserverApplication" />
+      <item itemvalue="Spring Boot.SmsApplication" />
+      <item itemvalue="Spring Boot.RobotapiApplication" />
+      <item itemvalue="Spring Boot.MallApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ConfigserverApplicationTests" />
+        <item itemvalue="JUnit.UserApplicationTests" />
+        <item itemvalue="JUnit.All in registry (2)" />
+        <item itemvalue="JUnit.All in user" />
+        <item itemvalue="JUnit.All in registry (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@399ac5d8" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5be791c-7909-4d01-943d-cdd3be860c29" name="Default Changelist" comment="" />
+      <created>1567580615053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567580615053</updated>
+      <workItem from="1567580627959" duration="1358000" />
+      <workItem from="1567608269138" duration="4841000" />
+      <workItem from="1567647103416" duration="11383000" />
+      <workItem from="1567660539949" duration="9664000" />
+      <workItem from="1567671626636" duration="5655000" />
+      <workItem from="1567682005914" duration="9020000" />
+      <workItem from="1567827235819" duration="773000" />
+      <workItem from="1567917111931" duration="574000" />
+      <workItem from="1567930118539" duration="3153000" />
+      <workItem from="1567934265150" duration="13472000" />
+      <workItem from="1567993243548" duration="1620000" />
+      <workItem from="1567994929764" duration="2158000" />
+      <workItem from="1567997158462" duration="18492000" />
+      <workItem from="1568077818089" duration="12609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UserApplicationTests - 2019.09.08 at 20h 35m 58s.xml">
+      <configuration name="UserApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConfigserverApplicationTests - 2019.09.08 at 20h 39m 30s.xml">
+      <configuration name="ConfigserverApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConfigserverApplicationTests - 2019.09.08 at 20h 43m 46s.xml">
+      <configuration name="ConfigserverApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConfigserverApplicationTests - 2019.09.08 at 20h 46m 33s.xml">
+      <configuration name="ConfigserverApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserApplicationTests - 2019.09.08 at 20h 49m 13s.xml">
+      <configuration name="UserApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserApplicationTests - 2019.09.08 at 20h 51m 47s.xml">
+      <configuration name="UserApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConfigserverApplicationTests - 2019.09.08 at 20h 57m 44s.xml">
+      <configuration name="ConfigserverApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConfigserverApplicationTests - 2019.09.08 at 21h 01m 45s.xml">
+      <configuration name="ConfigserverApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConfigserverApplicationTests - 2019.09.08 at 21h 04m 09s.xml">
+      <configuration name="ConfigserverApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConfigserverApplicationTests - 2019.09.08 at 21h 06m 10s.xml">
+      <configuration name="ConfigserverApplicationTests" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/user/src/main/java/com/example/user/service/userinterface/UserInterface.java</url>
+          <line>20</line>
+          <properties class="com.example.user.service.userinterface.UserInterface" method="index">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

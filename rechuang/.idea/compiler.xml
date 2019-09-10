@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="authentication-service" />
+        <module name="authentication-common" />
+        <module name="item-interface (1)" />
+        <module name="gateway" />
+        <module name="user" />
+        <module name="iteminterface" />
+        <module name="registry" />
+        <module name="mall" />
+        <module name="robotapi" />
+        <module name="sms" />
+        <module name="itemservice" />
+        <module name="cartiteminterface" />
+        <module name="common" />
+        <module name="configserver" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="authentication" target="1.8" />
+      <module name="authentication-common" target="1.8" />
+      <module name="authentication-service" target="1.8" />
+      <module name="cart" target="1.8" />
+      <module name="cart-item-interface" target="1.8" />
+      <module name="cart-item-service" target="1.8" />
+      <module name="cartiteminterface" target="1.8" />
+      <module name="cartitemservice" target="1.8" />
+      <module name="carts" target="1.8" />
+      <module name="carts-interface" target="1.8" />
+      <module name="common" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="configserver" target="1.8" />
+      <module name="gateway" target="1.8" />
+      <module name="interface" target="1.5" />
+      <module name="item-interface" target="1.8" />
+      <module name="item-interface (1)" target="1.8" />
+      <module name="item-service" target="1.8" />
+      <module name="iteminterface" target="1.8" />
+      <module name="itemservice" target="1.8" />
+      <module name="mall" target="1.8" />
+      <module name="rechuang" target="1.8" />
+      <module name="registry" target="1.8" />
+      <module name="robotapi" target="1.8" />
+      <module name="sms" target="1.8" />
+      <module name="user" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="authentication" options="-parameters" />
+      <module name="authentication-common" options="-parameters" />
+      <module name="authentication-service" options="-parameters" />
+      <module name="cart" options="-parameters" />
+      <module name="cart-item-interface" options="-parameters" />
+      <module name="cart-item-service" options="-parameters" />
+      <module name="cartiteminterface" options="-parameters" />
+      <module name="cartitemservice" options="-parameters" />
+      <module name="carts" options="-parameters" />
+      <module name="carts-interface" options="-parameters" />
+      <module name="common" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="configserver" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="item-interface" options="-parameters" />
+      <module name="item-interface (1)" options="-parameters" />
+      <module name="item-service" options="-parameters" />
+      <module name="iteminterface" options="-parameters" />
+      <module name="itemservice" options="-parameters" />
+      <module name="mall" options="-parameters" />
+      <module name="rechuang" options="-parameters" />
+      <module name="registry" options="-parameters" />
+      <module name="robotapi" options="-parameters" />
+      <module name="sms" options="-parameters" />
+      <module name="user" options="-parameters" />
+    </option>
+  </component>
+</project>

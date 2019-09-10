@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--  namespace  必须和接口的全路径相同-->
+<mapper namespace="com.example.user.mapper.UserMapper">
+    <select id="findAdmin" resultType="com.example.user.pojo.Admin" >
+    select * from admin
+</select>
+    <insert id="register" >
+        INSERT INTO user(user_name, password, telephone, email, create_time, new_login_time, state, invitation_code) VALUES (#{username}, #{password}, NULL, #{email}, #{dateTime}, #{dateTime}, 0, #{invitation_code});
+    </insert>
+    <select id="login" resultType="com.example.user.pojo.User">
+        select id,user_name from user where user_name=#{username} and password=#{password};
+    </select>
+    <update id="updatePassword" >
+        UPDATE user SET password=#{password} where email=#{email}
+    </update>
+    <select id="loginByJwt" resultType="com.example.user.pojo.User">
+          select u.id,u.user_name,u.telephone,u.email,r.role_name from user u,user_role r,user__role l where u.user_name=#{username} and u.password=#{password} and u.id=l.user_id and l.role_id=r.role_id;
+    </select>
+</mapper>

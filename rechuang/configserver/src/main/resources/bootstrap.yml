@@ -1,0 +1,27 @@
+server:
+  port: 9999
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/1026576357/testSpringCloud.git
+          username:
+          password:
+          default-label: master
+          search-paths: /**
+
+
+eureka:
+  client:
+    service-url:
+      #defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+      defaultZone: http://eureka01.com:8091/eureka/
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

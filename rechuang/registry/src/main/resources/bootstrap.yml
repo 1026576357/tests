@@ -1,0 +1,14 @@
+server:
+  port: 8091
+spring:
+  application:
+    name: registry #该名称非常重要
+eureka:
+  instance:
+    hostname: eureka01.com
+  client:
+    fetch-registry: false
+    service-url:
+#      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+      defaultZone: http://eureka01.com:8091/eureka/
+    register-with-eureka: false

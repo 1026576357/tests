@@ -1,0 +1,38 @@
+server:
+  port: 7001
+spring:
+  application:
+    name: user-server #该名称非常重要
+#  cloud:
+#      config:
+#        discovery:
+#          service-id: config-server
+#          enabled: true
+#        profile: dev
+#        #建议用lable去区分环境，默认是lable是master分支
+#        label: master
+  datasource:
+
+    url: jdbc:mysql://106.12.24.184:3306/cs_user?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=UTC
+    driver-class-name: com.mysql.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+
+
+
+#eureka:
+#  client:
+#    service-url:
+#      #defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+#      defaultZone: http://eureka01.com:8091/eureka/
+
+mybatis:
+  mapper-locations: classpath*:com/example/user/mapper/*Mapper.xml
+  type-aliases-package: com.example.user.mapper
+  configuration:
+    map-underscore-to-camel-case: true
+#showSql
+logging:
+  level:
+    com:
+      example:
+        mapper : debug

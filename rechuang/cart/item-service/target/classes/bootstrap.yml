@@ -1,0 +1,10 @@
+server:
+  port: 7009
+spring:
+  application:
+    name: cart-server #该名称非常重要
+eureka:
+  client:
+    service-url:
+      #defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+      defaultZone: http://eureka01.com:8091/eureka/

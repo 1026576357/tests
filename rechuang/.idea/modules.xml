@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/authentication/authentication.iml" filepath="$PROJECT_DIR$/authentication/authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authentication/authentication-common/authentication-common.iml" filepath="$PROJECT_DIR$/authentication/authentication-common/authentication-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authentication/authentication-service/authentication-service.iml" filepath="$PROJECT_DIR$/authentication/authentication-service/authentication-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cart/cart.iml" filepath="$PROJECT_DIR$/cart/cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cart/cart-item-interface/cartiteminterface.iml" filepath="$PROJECT_DIR$/cart/cart-item-interface/cartiteminterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cart/item-interface.iml" filepath="$PROJECT_DIR$/cart/item-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cart/item-interface/item-interface (1).iml" filepath="$PROJECT_DIR$/cart/item-interface/item-interface (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/cart/item-interface/iteminterface.iml" filepath="$PROJECT_DIR$/cart/item-interface/iteminterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cart/item-service/itemservice.iml" filepath="$PROJECT_DIR$/cart/item-service/itemservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall/mall.iml" filepath="$PROJECT_DIR$/mall/mall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rechuang.iml" filepath="$PROJECT_DIR$/rechuang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registry/registry.iml" filepath="$PROJECT_DIR$/registry/registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robotapi/robotapi.iml" filepath="$PROJECT_DIR$/robotapi/robotapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sms/sms.iml" filepath="$PROJECT_DIR$/sms/sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user/user.iml" filepath="$PROJECT_DIR$/user/user.iml" />
+    </modules>
+  </component>
+</project>
