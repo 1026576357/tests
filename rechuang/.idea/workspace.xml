@@ -61,6 +61,9 @@
       <find>mvc</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -69,6 +72,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1Qa08NNXOar3wvb6V8V6GPDRHpD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
@@ -280,7 +284,7 @@
       <workItem from="1567993243548" duration="1620000" />
       <workItem from="1567994929764" duration="2158000" />
       <workItem from="1567997158462" duration="18492000" />
-      <workItem from="1568077818089" duration="12609000" />
+      <workItem from="1568077818089" duration="13959000" />
     </task>
     <servers />
   </component>
@@ -327,6 +331,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
